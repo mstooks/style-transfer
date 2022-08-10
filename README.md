@@ -10,6 +10,8 @@ Use it for generating images, and then dig the code if you are curious.
 # Setup
 The code is in [this jupyter notebook](./Pytorch_Style_Transfer.ipynb).
 
+Click here for the [Direct link to Gloogle Colab.](https://colab.research.google.com/github/jeremycochoy/style-transfer/blob/master/Pytorch_Style_Transfer.ipynb)
+
 Go to [Gloogle Colab](https://colab.research.google.com/). Once registered, open the notebook from this git repository (you just have to go to the github dongle and copy and past the url of this repo).
 
 Open the execution environment menu and select GPU if it's not already the case (GPU makes it run faster).
